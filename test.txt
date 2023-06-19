@@ -1,0 +1,9 @@
+"How many awards did League of Legends win?" --> 1
+"How many copies of Counter Strike: Global Offensive have been sold?" --> null
+"How many copies did Minecraft sell?" --> 1
+"When was League of Legends released?" --> null
+"What is the release date of League of Legends?" --> 2009-10-27T00:00:00Z <-- Wel juist
+"Is Grand Theft Auto: San Andreas an action-adventure game?" --> no
+"Is The Sims a video game?" --> no
+"Is Outward an RPG?" --> no
+
