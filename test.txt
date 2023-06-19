@@ -1,6 +1,6 @@
-"Is The Sims a dog?" --> yes
-"How many copies did Minecraft sell in 2020?" --> null (en duurt heel lang) Qualified statements zijn nodig om voor een specifiek jaartal te queryen
-"Who developed Minecraft?" --> Jens Bergensten, Markus Persson <-- Juist
-"Are Jens Bergensten and Markus Persson the developers of Minecraft?" --> yes <-- Juist
-"Is Markus Persson a developer of League of Legends?" --> yes
-"Is Martijn Prikken a developer of League of Legends?" --> no
+"How many copies did Minecraft sell?" --> 238000000 <-- Juist
+"How many units of Minecraft have been sold?" --> 238000000 <-- Juist
+Mooi dat het systeem beide manieren van pakt
+
+"What is the birthdate of Jens Bergensten?" --> 1979-05-18T00:00:00Z <-- Juist
+"When is Jens Bergensten born?" --> null
