@@ -1,6 +1,0 @@
-"How many copies did Minecraft sell?" --> 238000000 <-- Juist
-"How many units of Minecraft have been sold?" --> 238000000 <-- Juist
-Mooi dat het systeem beide manieren van pakt
-
-"What is the birthdate of Jens Bergensten?" --> 1979-05-18T00:00:00Z <-- Juist
-"When is Jens Bergensten born?" --> null
